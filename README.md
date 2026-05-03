@@ -1,7 +1,5 @@
 # Airbnb Performance Analytics Dashboard | Power BI
 
-> Interactive business intelligence dashboard built using Power BI to analyze Airbnb platform growth, customer engagement, customer satisfaction, and market performance trends across multiple global cities.
-
 ---
 
 ## 📌 Project Overview
@@ -94,7 +92,6 @@ Examines reviewer behavior, seasonal demand, and platform trust indicators.
 Airbnb Dashboard/
 │
 ├── Assets/        # External icons and design assets
-├── Data/          # Listings and Reviews datasets
 ├── Images/        # Dashboard screenshots
 ├── README.md
 └── .gitignore
@@ -109,12 +106,11 @@ The project uses:
 - Reviews Dataset
 - Supporting data dictionaries
 
-Located inside the `/Data` folder.
 
 ---
 
 # ⚠️ Note
 
-The original `.pbix` dashboard file is maintained locally due to GitHub file size limitations for large Power BI project files.
+Large project source files and datasets are maintained locally and excluded from the repository to optimize GitHub performance and repository size.
 
 ---
